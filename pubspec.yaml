@@ -1,2 +1,8 @@
 name: ltsv
+author: Tomotaka Ito <tomotaka.ito@gmail.com>
+homepage: https://github.com/tomotaka/dart-ltsv
+description: LTSV(Labeled Tab-separated Values) format parser/dumper
+version: 1.0.0
+
+
 
